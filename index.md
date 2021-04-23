@@ -8,8 +8,11 @@ While some types of information and data are legally protected, other social dat
 ### Learning Objectives
 
 1) Develop fluency with generating random samples in order to make analysis with large files more manageable
+
 2) Know how to assess the identification risk of specific variables within a dataset in order to protect the identity of human subjects
+ 
 3) Create a Jupyter Notebook workflow that enables cleaning, redacting, and sharing data for research use
+
 4) Learn some fundamental Pandas features for exploring, cleaning, and transforming data
 
 ## Getting Started
