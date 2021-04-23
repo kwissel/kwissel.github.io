@@ -15,7 +15,7 @@ While some types of information and data are legally protected, other social dat
 
 4) Learn some fundamental Pandas features for exploring, cleaning, and transforming data
 
-## Getting Started
+### Getting Started
 
 Participants should install Python via the Anaconda3 distribution (https://docs.anaconda.com/anaconda/) in advance of the workshop. 
 ## Welcome to GitHub Pages
